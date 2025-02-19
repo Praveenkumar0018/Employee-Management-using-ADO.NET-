@@ -1,0 +1,74 @@
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Managemnet using ADO.NET\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Managemnet using ADO.NET\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Managemnet using ADO.NET\bin\Debug\Employee Managemnet using ADO.NET.exe.config
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Managemnet using ADO.NET\bin\Debug\Employee Managemnet using ADO.NET.exe
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Managemnet using ADO.NET\bin\Debug\Employee Managemnet using ADO.NET.pdb
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Managemnet using ADO.NET\bin\Debug\BusinessLayer.dll
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Managemnet using ADO.NET\bin\Debug\DataAccessLayer.dll
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Managemnet using ADO.NET\bin\Debug\Serilog.dll
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Managemnet using ADO.NET\bin\Debug\Serilog.Sinks.Console.dll
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Managemnet using ADO.NET\bin\Debug\Serilog.Sinks.File.dll
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Managemnet using ADO.NET\bin\Debug\System.Buffers.dll
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Managemnet using ADO.NET\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Managemnet using ADO.NET\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Managemnet using ADO.NET\bin\Debug\System.Memory.dll
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Managemnet using ADO.NET\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Managemnet using ADO.NET\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Managemnet using ADO.NET\bin\Debug\System.Threading.Channels.dll
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Managemnet using ADO.NET\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Managemnet using ADO.NET\bin\Debug\BusinessLayer.pdb
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Managemnet using ADO.NET\bin\Debug\DataAccessLayer.pdb
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Managemnet using ADO.NET\bin\Debug\Serilog.xml
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Managemnet using ADO.NET\bin\Debug\Serilog.Sinks.Console.xml
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Managemnet using ADO.NET\bin\Debug\Serilog.Sinks.File.xml
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Managemnet using ADO.NET\bin\Debug\System.Buffers.xml
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Managemnet using ADO.NET\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Managemnet using ADO.NET\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Managemnet using ADO.NET\bin\Debug\System.Memory.xml
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Managemnet using ADO.NET\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Managemnet using ADO.NET\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Managemnet using ADO.NET\bin\Debug\System.Threading.Channels.xml
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Managemnet using ADO.NET\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Managemnet using ADO.NET\obj\Debug\Presenta.9C561136.Up2Date
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Managemnet using ADO.NET\obj\Debug\Employee Managemnet using ADO.NET.exe
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Managemnet using ADO.NET\obj\Debug\Employee Managemnet using ADO.NET.pdb
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Managemnet using ADO.NET\bin\Debug\BusinessLayer.dll.config
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Managemnet using ADO.NET\obj\Debug\PresentationLayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Managemnet using ADO.NET\obj\Debug\Employee Managemnet using ADO.NET.exe.config
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Management using ADO.Net and mysql\Employee Managemnet using ADO.NET\bin\Debug\Employee Managemnet using ADO.NET.exe.config
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Management using ADO.Net and mysql\Employee Managemnet using ADO.NET\bin\Debug\Employee Managemnet using ADO.NET.exe
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Management using ADO.Net and mysql\Employee Managemnet using ADO.NET\bin\Debug\Employee Managemnet using ADO.NET.pdb
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Management using ADO.Net and mysql\Employee Managemnet using ADO.NET\bin\Debug\BusinessLayer.dll
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Management using ADO.Net and mysql\Employee Managemnet using ADO.NET\bin\Debug\DataAccessLayer.dll
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Management using ADO.Net and mysql\Employee Managemnet using ADO.NET\bin\Debug\Serilog.dll
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Management using ADO.Net and mysql\Employee Managemnet using ADO.NET\bin\Debug\Serilog.Sinks.Console.dll
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Management using ADO.Net and mysql\Employee Managemnet using ADO.NET\bin\Debug\Serilog.Sinks.File.dll
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Management using ADO.Net and mysql\Employee Managemnet using ADO.NET\bin\Debug\System.Buffers.dll
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Management using ADO.Net and mysql\Employee Managemnet using ADO.NET\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Management using ADO.Net and mysql\Employee Managemnet using ADO.NET\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Management using ADO.Net and mysql\Employee Managemnet using ADO.NET\bin\Debug\System.Memory.dll
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Management using ADO.Net and mysql\Employee Managemnet using ADO.NET\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Management using ADO.Net and mysql\Employee Managemnet using ADO.NET\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Management using ADO.Net and mysql\Employee Managemnet using ADO.NET\bin\Debug\System.Threading.Channels.dll
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Management using ADO.Net and mysql\Employee Managemnet using ADO.NET\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Management using ADO.Net and mysql\Employee Managemnet using ADO.NET\bin\Debug\BusinessLayer.pdb
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Management using ADO.Net and mysql\Employee Managemnet using ADO.NET\bin\Debug\BusinessLayer.dll.config
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Management using ADO.Net and mysql\Employee Managemnet using ADO.NET\bin\Debug\DataAccessLayer.pdb
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Management using ADO.Net and mysql\Employee Managemnet using ADO.NET\bin\Debug\Serilog.xml
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Management using ADO.Net and mysql\Employee Managemnet using ADO.NET\bin\Debug\Serilog.Sinks.Console.xml
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Management using ADO.Net and mysql\Employee Managemnet using ADO.NET\bin\Debug\Serilog.Sinks.File.xml
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Management using ADO.Net and mysql\Employee Managemnet using ADO.NET\bin\Debug\System.Buffers.xml
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Management using ADO.Net and mysql\Employee Managemnet using ADO.NET\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Management using ADO.Net and mysql\Employee Managemnet using ADO.NET\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Management using ADO.Net and mysql\Employee Managemnet using ADO.NET\bin\Debug\System.Memory.xml
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Management using ADO.Net and mysql\Employee Managemnet using ADO.NET\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Management using ADO.Net and mysql\Employee Managemnet using ADO.NET\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Management using ADO.Net and mysql\Employee Managemnet using ADO.NET\bin\Debug\System.Threading.Channels.xml
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Management using ADO.Net and mysql\Employee Managemnet using ADO.NET\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Management using ADO.Net and mysql\Employee Managemnet using ADO.NET\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Management using ADO.Net and mysql\Employee Managemnet using ADO.NET\obj\Debug\PresentationLayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Management using ADO.Net and mysql\Employee Managemnet using ADO.NET\obj\Debug\Employee Managemnet using ADO.NET.exe.config
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Management using ADO.Net and mysql\Employee Managemnet using ADO.NET\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Management using ADO.Net and mysql\Employee Managemnet using ADO.NET\obj\Debug\Presenta.9C561136.Up2Date
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Management using ADO.Net and mysql\Employee Managemnet using ADO.NET\obj\Debug\Employee Managemnet using ADO.NET.exe
+C:\Users\praveenkumar_s1\Documents\14 Tasks\Employee Management using ADO.Net and mysql\Employee Managemnet using ADO.NET\obj\Debug\Employee Managemnet using ADO.NET.pdb
